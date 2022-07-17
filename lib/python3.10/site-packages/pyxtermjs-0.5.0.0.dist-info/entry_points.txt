@@ -1,0 +1,3 @@
+[console_scripts]
+pyxtermjs = pyxtermjs.app:main
+
