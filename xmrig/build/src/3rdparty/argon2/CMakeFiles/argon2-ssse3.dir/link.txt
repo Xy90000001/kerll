@@ -1,0 +1,2 @@
+/usr/bin/ar qc libargon2-ssse3.a "CMakeFiles/argon2-ssse3.dir/arch/x86_64/lib/argon2-ssse3.c.o"
+/usr/bin/ranlib libargon2-ssse3.a

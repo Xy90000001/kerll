@@ -1,0 +1,2 @@
+/usr/bin/ar qc libargon2-avx2.a "CMakeFiles/argon2-avx2.dir/arch/x86_64/lib/argon2-avx2.c.o"
+/usr/bin/ranlib libargon2-avx2.a

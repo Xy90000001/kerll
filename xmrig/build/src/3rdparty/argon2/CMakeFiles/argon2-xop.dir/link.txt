@@ -1,0 +1,2 @@
+/usr/bin/ar qc libargon2-xop.a "CMakeFiles/argon2-xop.dir/arch/x86_64/lib/argon2-xop.c.o"
+/usr/bin/ranlib libargon2-xop.a
